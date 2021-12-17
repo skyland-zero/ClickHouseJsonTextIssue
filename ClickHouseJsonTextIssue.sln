@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickHouseJsonTextIssue", "ClickHouseJsonTextIssue\ClickHouseJsonTextIssue.csproj", "{580FEB40-7679-4AF0-A8DF-C832298F292D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580FEB40-7679-4AF0-A8DF-C832298F292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580FEB40-7679-4AF0-A8DF-C832298F292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580FEB40-7679-4AF0-A8DF-C832298F292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580FEB40-7679-4AF0-A8DF-C832298F292D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6C5955-0A07-4B85-A6C6-30F6DD2CB098}
+	EndGlobalSection
+EndGlobal
